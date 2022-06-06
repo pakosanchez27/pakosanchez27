@@ -2,9 +2,8 @@
 <img src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width= "100" />
 
 ## A little more about me...
-I am a self-taught web developer.
-Even though I haven't studied yet, I have acquired knowledge in web programming through <br>
-books, courses, etc.
+I am a software development student.
+However, I have experience in web development. Because I am a self-taught person and what I have learned through books, courses, etc.
 
 ```javascript
 const Francisco = {
