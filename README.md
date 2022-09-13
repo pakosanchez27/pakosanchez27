@@ -1,4 +1,4 @@
-![Francisco Sanchez](./img/Hi%20I'm%20Francisco%20S%C3%A1nchez%20(1640%C2%A0%C3%97%C2%A0600%C2%A0px).png)
+![Francisco Sanchez](./img/fondo2.png)
 
  Hey!! there 👋 <br> <br>
 I'm Paco Sanchez. I am a software development student at the Universidad Tecnologica de Nezahualcoyotl.
