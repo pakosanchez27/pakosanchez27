@@ -6,7 +6,7 @@
  [![Linkedin: Pako Sanchez](https://img.shields.io/badge/-FranciscoSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/francisco-javier-sánchez-tirado-327006178/)](https://www.linkedin.com/in/francisco-javier-sánchez-tirado-327006178/) 
 
  Hey!! there 👋 <br> <br>
-I'm Paco Sanchez. I am a software development student at the Universidad Tecnologica de Nezahualcoyotl.
+I'm Francisco Sanchez. I am a software development student at the Universidad Tecnologica de Nezahualcoyotl.
 I have knowledge in the area of web development. although my goal is to specialize in the area of data science.
 I consider myself a self-taught person since most of my skills have been obtained from courses and my own practices
 
