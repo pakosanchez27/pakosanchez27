@@ -1,9 +1,13 @@
-### Hi I am Francisco 👋 <br>
-<img src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width= "100" />
 
-## A little more about me...
-I am a software development student.
-However, I have experience in web development. Because I am a self-taught person and what I have learned through books, courses, etc.
+
+ Hey!! there 👋 <br> <br>
+I'm Paco Sanchez. I am a software development student at the Universidad Tecnologica de Nezahualcoyotl.
+I have knowledge in the area of web development. although my goal is to specialize in the area of data science.
+I consider myself a self-taught person since most of my skills have been obtained from courses and my own practices
+
+Do you want to know more about me. [Check my portfolio]() (in development).
+
+# 💼 My Skills
 
 ```javascript
 const Francisco = {
@@ -13,6 +17,7 @@ const Francisco = {
     css3: "60%",
     javaScript: "50%",
     php: "30%",
+    SQL: "30%"
   },
   tools: {
     sass: "70%",
