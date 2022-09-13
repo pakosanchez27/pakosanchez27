@@ -39,5 +39,3 @@ const Francisco = {
 ### "Follow Your Dreams" 
 
 
-**pakosanchez27/pakosanchez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
