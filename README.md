@@ -35,7 +35,7 @@ const Francisco = {
 
 
 ```
-<img src="https://media.giphy.com/media/3oFzlXaiuAw8UulQwU/giphy-downsized-large.gif" width="100"> <br>
+<img src="https://media.giphy.com/media/3oFzlXaiuAw8UulQwU/giphy-downsized-large.gif" width="500"> <br>
 ### "Follow Your Dreams" 
 
 
