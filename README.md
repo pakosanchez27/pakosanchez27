@@ -5,6 +5,11 @@
 [![Instagram Francisco Sanchez](https://img.shields.io/twitter/url?label=Pako%20Sanchez&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fpako_sanchez98%2F%3Fhl%3Des-la)](https://www.instagram.com/pako_sanchez98/?hl=es-la) 
  [![Linkedin: Pako Sanchez](https://img.shields.io/badge/-FranciscoSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/francisco-javier-sánchez-tirado-327006178/)](https://www.linkedin.com/in/francisco-javier-sánchez-tirado-327006178/) 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pakosanchez27/count.svg" />
+</p>
+
  Hey!! there 👋 <br> <br>
 👋 Hi, I'm Francisco Sanchez, and I am currently pursuing a degree in software development at the Universidad Tecnologica de Nezahualcoyotl. 🎓 My primary area of expertise lies in web development, but my true passion lies in the field of data science. 🌟 I consider myself a self-taught individual, as I have honed most of my skills through dedicated courses and hands-on practice. 💻 My determination to excel in data science drives me to continually learn and grow in this ever-evolving field. 📈📊
 
