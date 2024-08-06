@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/pakosanchez27/pakosanchez27/blob/main/img/fondo2.png?raw=true" align="center" style="width: 100%" />
 </div>  
+  
   
 
 # <div align="center">¡Hola, soy Francisco Sánchez 👋
