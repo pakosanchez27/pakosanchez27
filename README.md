@@ -131,10 +131,8 @@ Infraestructura     → Deploys en VPS, Docker, dominios, SSL y entornos product
 
 ## 🧭 Sitio web y portafolio
 
-```txt
-Sitio web: En construcción
-Portafolio: En construcción
-```
+
+Portafolio: [PakoDev](https://pakodev.oraleweb.com)
 
 ---
 
